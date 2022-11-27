@@ -1,6 +1,7 @@
 # Virtual Keyboard
 
-Virtual keyboard detects hand gesture and types,Not perfect but still enough to get happiness
+Virtual keyboard detects hand gesture and types
+
 
 Requirements
 
@@ -16,3 +17,6 @@ Requirements
 
 
   ->Lots of Patience
+
+
+You may encounter lots of errors  while implementing,google it 
