@@ -2,14 +2,14 @@
 Requirements
 
 
-Python version =3.7.0
+  ->Python version =3.7.0
 
 
-cvzone=1.4.1
+  ->cvzone=1.4.1
 
 
 
-mediapipie
+  ->mediapipie
 
 
-Lots of Patience
+  ->Lots of Patience
