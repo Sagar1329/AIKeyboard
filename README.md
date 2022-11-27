@@ -19,4 +19,4 @@ Requirements
   ->Lots of Patience
 
 
-You may encounter lots of errors  while implementing,google it 
+You may encounter lots of errors  while implementing,google those errors 
